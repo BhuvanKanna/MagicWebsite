@@ -1,12 +1,12 @@
 # MagicWebsite
 Magic Website<br>
-<a>Click to go to the Main Page</a>
+<a href="Main.html">Click to go to the Main Page</a>
 <br>
-<a>Click to go to the Login</a>
+<a href="Login.html">Click to go to the Login</a>
 <br>
-<a>Click to go to the Sign Up</a>
+<a href="Create.html">Click to go to the Sign Up</a>
 <br>
-<a>Click to go to the Instructions</a>
+<a href="Instruction.html">Click to go to the Instructions</a>
 <br>
-<a>Click to go to the Posting Page</a>
+<a href="Post.html">Click to go to the Posting Page</a>
 
