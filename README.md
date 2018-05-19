@@ -1,4 +1,4 @@
-# MagicWebsite
+# Magic Website
 Magic Website<br>
 <a href="Main.html">Click to go to the Main Page</a>
 <br>
